@@ -1,4 +1,4 @@
 
 Webste Link:
-https://github.com/iamclouds/my-first-binder
+ https://iamclouds.github.io/convolutional-neural-network-project/
 
